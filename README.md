@@ -6,7 +6,7 @@ This project implements a highly available, multi-site IT infrastructure for Pro
 
 The infrastructure is distributed across two sites with a redundant architecture enabling high availability of critical services. The solution uses containerization, load balancing, and automation technologies to ensure rapid disaster recovery and smooth application deployment.
 
-![Infrastructure Overview](diagrams/network-topology.png)
+![Infrastructure Overview](diagrams/Topology-Network.PNG)
 
 ## Key Features
 
